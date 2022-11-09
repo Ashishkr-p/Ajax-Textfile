@@ -1,0 +1,27 @@
+AJAX
+
+
+API called make easile. Secure
+
+Axios it is best library used for sending XMLHttpRequest 
+
+
+Get, Post, Put/Patch, Deleted, Sim Request Customer, headers, Transform, Error handing cancel 
+
+
+• Asynchronous JavaScript and XML it is not Programming language. it technology. 
+Ajax help fatch data Asynchrous without interfering with exciting page.
+
+• dom ki Rendering block nahi hoti hai  Asynction. Modern website mostly used json
+
+
+
+"XHL Help Request object" (xhr) Poe. Is == Vanilla Javascript.
+
+•data will be in any
+
+Formate. XML ,json ,text 
+
+Open the of just. Xhr object 
+
+it API  in the form object Provide by the browser Js evnivorment It  transfer data between Client and server  Can be used  other protocol  (HTTP).
